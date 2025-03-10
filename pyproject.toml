@@ -12,7 +12,7 @@ packages = [{include = "pandasai_chainlit_docker_deployment_template"}]
 python = "^3.10"
 openai = "^0.27.8"
 chainlit = "^0.3.0"
-pandasai = "^0.5.2"
+pandasai = "^3.0.0a1"
 
 
 [build-system]
